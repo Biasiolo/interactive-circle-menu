@@ -4,7 +4,7 @@ Este é um exemplo de um menu circular criado com HTML, CSS e JavaScript. O menu
 
 ## Demonstração
 
-Incluí uma demonstração, que pode ser acessada [aqui](URL_DA_DEMONSTRACAO).
+Incluí uma demonstração, que pode ser acessada [aqui](https://interactive-circle-menu.vercel.app/).
 
 ## Como Usar
 
@@ -42,7 +42,7 @@ This is an example of a circular menu created with HTML, CSS and JavaScript. The
 
 ## Demo
 
-I have included a live demo of the menu, which can be accessed [here](DEMO_URL).
+I have included a live demo of the menu, which can be accessed [here](https://interactive-circle-menu.vercel.app/).
 
 ## How to Use
 
