@@ -1,0 +1,15 @@
+{
+    "name": "responsive-circular-menu",
+    "version": "1.0.0",
+    "description": "This is an example of a circular menu created with HTML, CSS and JavaScript. The menu has a unique circular style with changing colors as you hover the mouse.",
+    "main": "script.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Biasiolo/interactive-circle-menu"
+    },
+    "author": "Biasiolo",
+    "license": "MIT",
+    "homepage": "https://github.com/Biasiolo/interactive-circle-menu#readme",
+    "keywords": ["interactive menu", "circle menu", "ux-ui", "circular", "menu", "HTML", "CSS", "JavaScript"]
+  }
+  
